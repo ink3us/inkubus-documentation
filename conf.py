@@ -43,9 +43,9 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Test'
-copyright = u'2015, Test'
-author = u'Test'
+project = 'Kikikiz'
+copyright = '2017, KiKiKoz dev team'
+author = 'Thierry Chappuis'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
