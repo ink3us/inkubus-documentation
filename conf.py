@@ -43,7 +43,7 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Kikikiz'
+project = 'Projet Kikikoz'
 copyright = '2017, KiKiKoz dev team'
 author = 'Thierry Chappuis'
 
