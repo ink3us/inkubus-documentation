@@ -1,17 +1,17 @@
-Markdown test
--------------
+Kikikoz: documentation pour le développement du site web
+========================================================
 
-Markdown files:
-
-.. toctree::
-   :glob:
-
-   markdown
-
-RST files:
+Didacticiels sur la rédaction et le développement
 
 .. toctree::
    :glob:
 
-   rst
+   tuts/installation
+
+Foire aux questions
+
+.. toctree::
+   :glob:
+
+   faq/exemple-question
 
