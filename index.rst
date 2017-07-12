@@ -7,6 +7,7 @@ Tutoriels et HowTos
    :glob:
 
    tuts/installation
+   tuts/Contribute_to_doc_translation
 
 Foire aux questions
 
