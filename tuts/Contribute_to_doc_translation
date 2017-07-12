@@ -1,0 +1,40 @@
+# Comment contribuer à la traduction
+
+
+SRC : https://github.com/wearehive/project-guidelines#some-git-rules
+
+## Cloner le repertoire existant
+
+```
+cd /path/to/your/existing/code 
+git clone https://github.com/openclassmates/kikikoz
+```
+
+## Ajouter une branche
+
+```
+git branch <branch>
+```
+
+Où <branch> est le note de votre branche de traduction
+
+## Switcher sur la nouvelle branch
+```
+git branch <existing-branch>
+```
+
+Où <existing-branch> est la branche que vous venez de créer. Cela permet de définir <existing-branch> comme la branche courante, et mets à jour le répertoire de travail
+
+## Commencer à travailler sur un fichier
+```
+# Editer des fichier
+git add <file>
+git commit -m "Commencé à travailler sur une nouvelle fonctionnalité"
+# Répeter
+```
+
+
+## Faire une demande de Pull
+
+## Détruire la branche de fonctionnalité locale et distante après l'avoir integré
+
