@@ -6,13 +6,12 @@ Tutoriels et HowTos
 .. toctree::
    :glob:
 
-   tuts/installation
-   tuts/Contribute_to_doc_translation
+   tuts/*
 
 Foire aux questions
 
 .. toctree::
    :glob:
 
-   faq/exemple-question
+   faq/*
 
