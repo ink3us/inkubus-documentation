@@ -4,7 +4,7 @@ Inkubus: documentation pour le développement du site web
 Tutoriels et HowTos
 
 .. toctree::
-   :maxdpth: 1
+   :maxdpth: 2
    :glob:
 
    tuts/*
@@ -12,7 +12,7 @@ Tutoriels et HowTos
 Foire aux questions
 
 .. toctree::
-   :maxdpth: 1
+   :maxdpth: 2
    :glob:
 
    faq/*
