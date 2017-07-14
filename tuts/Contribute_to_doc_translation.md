@@ -5,6 +5,7 @@ SRC : https://github.com/wearehive/project-guidelines#some-git-rules
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cPy7gCAVofQ" frameborder="0" allowfullscreen></iframe>
 
+
 ## Cloner le repertoire existant
 ```
 cd /path/to/your/existing/code 
