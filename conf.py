@@ -43,9 +43,9 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Inkubus'
-copyright = '2017, Inkubus Development Team'
-author = 'Inkubus Team'
+project = 'Ink3us'
+copyright = '2018, Ink3us Development Team'
+author = 'Ink3us Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
